@@ -1,0 +1,47 @@
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "325f715c-d35b-4eea-892a-4f155fad18f0",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "<!doctype html>\n",
+    "<html lang=\"en\">\n",
+    "  <head>\n",
+    "    <meta charset=\"UTF-8\" />\n",
+    "    <link rel=\"icon\" type=\"image/svg+xml\" href=\"/vite.svg\" />\n",
+    "    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" />\n",
+    "    <title>Text Summarization Tool with Logo</title>\n",
+    "  </head>\n",
+    "  <body>\n",
+    "    <div id=\"root\"></div>\n",
+    "    <script type=\"module\" src=\"/src/main.tsx\"></script>\n",
+    "  </body>\n",
+    "</html>"
+   ]
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python [conda env:base] *",
+   "language": "python",
+   "name": "conda-base-py"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.12.7"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
